@@ -6,12 +6,15 @@
 <!--   <a href="#" target="_blank">
     <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=flat-square&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
   </a> -->
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <br>
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thakareganesh&style=for-the-badge" alt="thakareganesh" /> </p>
+
+- 📫 How to reach me: **thakareganesh803@gmail.com**
 <!--Twitter here-->
 <hr>
 <h3 align="left">Connect with me:</h3>

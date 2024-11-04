@@ -40,6 +40,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakareganesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical" alt="thakareganesh" /></p>
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
 
 
 
